@@ -1736,3 +1736,8 @@ An app that uses `HydratedBloc` to persist and restore counter state across app 
 ### **Conclusion**
 
 By completing these labs, you've gained hands-on experience with both Cubit and Bloc in Flutter, from simple state management to more complex patterns like API integration, navigation, and advanced state management techniques.
+
+---
+https://github.com/AmrMAM
+
+Amr_MAM
